@@ -1,0 +1,78 @@
+.headerContainer {
+    display: grid;
+    background-color: #131D26;
+    justify-content: center;
+}
+
+
+a {
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+body {
+    padding: 15px;
+}
+
+.card-body {
+    background-color: #131D26;
+    color: white;
+}
+
+.btn {
+    background-color: #082B59;
+}
+
+.btn-primary :disabled{
+    background-color: #082B59;
+}
+
+h1 {
+    font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.nav-item {
+    font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container-lg {
+    display: grid;
+    flex-direction: column;
+}
+
+.coffeePage h1 {
+    font-size: 60px;
+}
+
+p {
+    font-size: 20px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400px;
+    font-style: normal;
+}
+
+.col {
+    display: grid;
+    justify-content: center;
+}
+
+h2 {
+    font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 30px;
+}
+
+.nav {
+    padding-right: 20px;
+}
+
